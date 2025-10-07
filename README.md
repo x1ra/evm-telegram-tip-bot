@@ -23,7 +23,11 @@ Each deployment is **custom branded** for the project’s token, hosted securely
 - 🔐 **256-bit encrypted wallet management**
 - 💹 **Live price tracking**
   - `/price` shows your project’s token price  
-  - `/price btc`, `/price eth`, etc., show market prices for other supported assets. Can create a whitelist.  
+  - `/price btc`, `/price eth`, etc., show market prices for other supported assets. Can create a whitelist.
+- ⚙️ **Custom transaction fees**
+  - Option to enable or disable tipping fees  
+  - Adjustable percentage fee (e.g. 1%–10%)  
+  - Collected fees are automatically sent to your chosen wallet or team address  
 - 🛠️ **Fully hosted and maintained** — zero setup required from the project  
 - 🧠 **Custom branding** — custom bot name, logo, and evm token integrated
 
