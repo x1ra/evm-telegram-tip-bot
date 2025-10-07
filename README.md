@@ -9,7 +9,7 @@
 
 ## 🧩 Overview  
 The **EVM Telegram Tip Bot** is a managed tipping bot built for projects on EVM-compatible chains.  
-Community members in groups can send tokens directly in Telegram chats with simple commands like:  /tip 1
+Community members in groups can send tokens directly in Telegram chats with simple commands like:  `/tip 1`
 
 
 Each deployment is **custom branded** for the project’s token, hosted securely, and maintained for continuous uptime.
