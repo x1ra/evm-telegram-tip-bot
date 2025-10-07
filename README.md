@@ -8,8 +8,8 @@
 ---
 
 ## 🧩 Overview  
-The **EVM Telegram Tip Bot** is a managed tipping solution built for projects on EVM-compatible chains.  
-Users can send tokens directly in Telegram chats with simple commands like:  /tip 1
+The **EVM Telegram Tip Bot** is a managed tipping bot built for projects on EVM-compatible chains.  
+Community members in groups can send tokens directly in Telegram chats with simple commands like:  /tip 1
 
 
 Each deployment is **custom branded** for the project’s token, hosted securely, and maintained for continuous uptime.
@@ -20,7 +20,10 @@ Each deployment is **custom branded** for the project’s token, hosted securely
 - 💸 **Instant tipping** directly in Telegram groups 
 - 🧾 **Dashboard** for users to view balances and transaction history  
 - 🏆 **Leaderboard** to boost engagement and reward activity  
-- 🔐 **256-bit encrypted wallet management**  
+- 🔐 **256-bit encrypted wallet management**
+- 💹 **Live price tracking**
+  - `/price` shows your project’s token price  
+  - `/price btc`, `/price eth`, etc., show market prices for other supported assets. Can create a whitelist.  
 - 🛠️ **Fully hosted and maintained** — zero setup required from the project  
 - 🧠 **Custom branding** — custom bot name, logo, and evm token integrated
 
@@ -30,7 +33,7 @@ Each deployment is **custom branded** for the project’s token, hosted securely
 This public repository serves as a **development and update hub** for the EVM Tip Bot project.  
 The full implementation and hosting infrastructure are maintained privately for security and operational stability.  
 
-> This repo was recently created to provide **public transparency**, version history, and information for projects interested in integrating the bot.
+> This repo was recently created so I can provide **public transparency**, version history, and information for projects interested in integrating the bot.
 
 ---
 
@@ -47,7 +50,9 @@ Included in the service:
 - Full setup and deployment  
 - Hosting and maintenance  
 - Custom branding for your token  
-- Continuous updates and uptime monitoring  
+- Continuous updates and uptime monitoring
+
+The source code is not shared or distributed. This protects the project’s security, prevents unauthorised resale, and ensures all deployed versions remain stable, secure, and up to date. Each client receives a unique, branded deployment managed directly by myself.
 
 💵 **Fixed one-time fee:** 5,000 USD  
 (No payment until your bot is fully set up and live in your group.)
