@@ -27,7 +27,8 @@ Each deployment is **custom branded** for the project’s token, hosted securely
 - ⚙️ **Custom transaction fees**
   - Option to enable or disable tipping fees  
   - Adjustable percentage fee (e.g. 1%–10%)  
-  - Collected fees are automatically sent to your chosen wallet or team address  
+  - Collected fees are automatically sent to your chosen wallet or team address
+- ☁️ **Cloud hosted with 24/7 uptime** — always online and monitored for reliability 
 - 🛠️ **Fully hosted and maintained** — zero setup required from the project  
 - 🧠 **Custom branding** — custom bot name, logo, and evm token integrated
 
