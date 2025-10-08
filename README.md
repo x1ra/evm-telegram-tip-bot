@@ -46,6 +46,8 @@ The full implementation and hosting infrastructure are maintained privately for 
 Bot is live in the group below which is managed by me. Search for @SeedifyTipBot:  
 👉 [Group](https://t.me/SeedifyHODLers)  
 
+![Image](Image.png)
+
 ---
 
 ## 💼 For Projects Interested in Integration  
